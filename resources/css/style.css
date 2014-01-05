@@ -1,0 +1,39 @@
+.container{
+    font-family:Calibri, Helvetica, serif;
+    color:#444;
+    width:200px;
+    margin:100px auto 0;
+    padding:30px;
+    border:1px solid #ddd;
+    background:#f6f6f6;
+    -webkit-border-radius:4px;
+       -moz-border-radius:4px;
+            border-radius:4px;
+}
+ 
+h1, nav{
+    text-align:center;
+    margin:0 0 20px;
+}
+
+.user-item-class{
+	background-color: rgb(221, 221, 221);
+	margin-bottom: 5px;
+}
+
+.delete-user-item{
+	float: right;
+	padding: 0px 6px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	cursor:pointer;
+}
+
+.typicalUL{
+	list-style-type: none;
+}
+
+.userListUL{
+	padding-left: 0px;
+}
