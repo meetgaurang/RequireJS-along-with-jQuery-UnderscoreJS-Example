@@ -1,4 +1,4 @@
-define([], function(){
+define(['underscore'], function(_){
 
 	var userDataModel = function(){
 		this.usersList = [{'id':1,'name':'Tom'},{'id':2,'name':'Jerry'},{'id':3,'name':'Bat Man'},{'id':4,'name':'Spider Man'}];
